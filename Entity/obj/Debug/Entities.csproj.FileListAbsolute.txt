@@ -1,0 +1,14 @@
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\bin\Debug\Entity.dll.config
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\bin\Debug\Entity.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\bin\Debug\Entity.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\bin\Debug\EntityFramework.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\bin\Debug\EntityFramework.xml
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\obj\Debug\Entities.csproj.GenerateResource.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\obj\Debug\Entity.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\Entity\obj\Debug\Entity.pdb

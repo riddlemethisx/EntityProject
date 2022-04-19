@@ -1,0 +1,16 @@
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\DAL.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\DAL.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\Entity.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\Entity.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\Entity.dll.config
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\obj\Debug\DAL.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\EntityProject\DAL\obj\Debug\DAL.pdb
